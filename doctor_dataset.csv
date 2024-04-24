@@ -1,0 +1,201 @@
+Doctor's Name,Specialty,Disease
+Dr. Smith,Neurology,Diabetic retinopathy
+Dr. Brown,Pediatrics,Rheumatoid arthritis
+Dr. Brown,Neurology,Obesity
+Dr. Brown,Dermatology,Tinnitus
+Dr. Johnson,Orthopedics,Lung cancer
+Dr. Jones,Cardiology,Lung cancer
+Dr. Brown,Cardiology,ADHD
+Dr. Williams,Neurology,Myasthenia gravis
+Dr. Smith,Cardiology,Huntington's disease
+Dr. Johnson,Neurology,Colon cancer
+Dr. Jones,Neurology,Diabetes
+Dr. Smith,Pediatrics,Psoriasis
+Dr. Smith,Cardiology,Cataracts
+Dr. Smith,Pediatrics,Rheumatoid arthritis
+Dr. Williams,Pediatrics,Bronchitis
+Dr. Williams,Dermatology,Allergies
+Dr. Brown,Neurology,Lymphoma
+Dr. Brown,Neurology,Sleep disorders
+Dr. Jones,Pediatrics,Migraine
+Dr. Williams,Orthopedics,Vertigo
+Dr. Jones,Orthopedics,Diabetes
+Dr. Brown,Neurology,Hepatitis C
+Dr. Williams,Neurology,Sleep apnea
+Dr. Brown,Cardiology,Allergies
+Dr. Williams,Cardiology,Diabetic neuropathy
+Dr. Brown,Cardiology,Breast cancer
+Dr. Johnson,Dermatology,Lymphoma
+Dr. Jones,Pediatrics,OCD
+Dr. Johnson,Dermatology,Schizophrenia
+Dr. Johnson,Neurology,Gout
+Dr. Smith,Orthopedics,Pancreatitis
+Dr. Smith,Neurology,Migraine
+Dr. Smith,Pediatrics,Tinnitus
+Dr. Brown,Pediatrics,Pancreatitis
+Dr. Smith,Orthopedics,OCD
+Dr. Williams,Pediatrics,Cystic fibrosis
+Dr. Williams,Orthopedics,Eczema
+Dr. Smith,Dermatology,Scleroderma
+Dr. Jones,Neurology,Influenza
+Dr. Smith,Pediatrics,Shingles
+Dr. Smith,Dermatology,Eating disorders
+Dr. Brown,Pediatrics,Chronic fatigue syndrome
+Dr. Jones,Pediatrics,Fibromyalgia
+Dr. Johnson,Cardiology,Lymphoma
+Dr. Jones,Dermatology,Hepatitis B
+Dr. Smith,Pediatrics,Eating disorders
+Dr. Brown,Pediatrics,Thalassemia
+Dr. Jones,Orthopedics,Anxiety
+Dr. Williams,Orthopedics,Chronic fatigue syndrome
+Dr. Johnson,Orthopedics,Anemia
+Dr. Johnson,Neurology,Colon cancer
+Dr. Brown,Pediatrics,Allergies
+Dr. Brown,Neurology,Multiple sclerosis
+Dr. Williams,Neurology,OCD
+Dr. Smith,Pediatrics,Ulcerative colitis
+Dr. Brown,Cardiology,Gallstones
+Dr. Jones,Orthopedics,Depression
+Dr. Williams,Cardiology,Endometriosis
+Dr. Smith,Cardiology,Muscular dystrophy
+Dr. Jones,Pediatrics,Cataracts
+Dr. Brown,Pediatrics,Hyperthyroidism
+Dr. Williams,Orthopedics,Migraine
+Dr. Brown,Dermatology,Gallstones
+Dr. Jones,Cardiology,COPD
+Dr. Brown,Neurology,Hypothyroidism
+Dr. Williams,Orthopedics,Lymphoma
+Dr. Johnson,Orthopedics,Sleep disorders
+Dr. Brown,Pediatrics,Crohn's disease
+Dr. Brown,Orthopedics,Sickle cell disease
+Dr. Williams,Dermatology,Psoriasis
+Dr. Brown,Cardiology,Eating disorders
+Dr. Jones,Cardiology,Sleep apnea
+Dr. Williams,Cardiology,Pneumonia
+Dr. Johnson,Pediatrics,Autism spectrum disorder
+Dr. Johnson,Cardiology,Fibromyalgia
+Dr. Johnson,Neurology,Tinnitus
+Dr. Johnson,Neurology,Prostate cancer
+Dr. Williams,Orthopedics,Multiple sclerosis
+Dr. Brown,Orthopedics,Diabetic retinopathy
+Dr. Smith,Neurology,Tuberculosis
+Dr. Brown,Neurology,Celiac disease
+Dr. Johnson,Neurology,Diabetes
+Dr. Williams,Orthopedics,Ulcerative colitis
+Dr. Johnson,Orthopedics,Epilepsy
+Dr. Williams,Orthopedics,Chronic kidney disease
+Dr. Jones,Orthopedics,Migraine
+Dr. Williams,Neurology,Osteoporosis
+Dr. Smith,Dermatology,Narcolepsy
+Dr. Jones,Orthopedics,Restless leg syndrome
+Dr. Johnson,Cardiology,Thalassemia
+Dr. Johnson,Neurology,Diabetic neuropathy
+Dr. Brown,Dermatology,Sleep disorders
+Dr. Williams,Neurology,Cystic fibrosis
+Dr. Jones,Pediatrics,GERD
+Dr. Johnson,Pediatrics,Psoriasis
+Dr. Johnson,Pediatrics,Hemorrhoids
+Dr. Williams,Cardiology,Meniere's disease
+Dr. Williams,Pediatrics,Allergies
+Dr. Jones,Orthopedics,Sleep apnea
+Dr. Jones,Pediatrics,Anemia
+Dr. Smith,Dermatology,Osteoarthritis
+Dr. Jones,Cardiology,Huntington's disease
+Dr. Johnson,Orthopedics,Lung cancer
+Dr. Brown,Cardiology,Chronic kidney disease
+Dr. Brown,Neurology,OCD
+Dr. Smith,Dermatology,Fibromyalgia
+Dr. Johnson,Orthopedics,Pancreatic cancer
+Dr. Johnson,Dermatology,Hypertension
+Dr. Smith,Orthopedics,Sleep disorders
+Dr. Brown,Orthopedics,Lymphoma
+Dr. Johnson,Orthopedics,Sickle cell disease
+Dr. Brown,Dermatology,Thalassemia
+Dr. Brown,Cardiology,Gastritis
+Dr. Williams,Pediatrics,Ulcerative colitis
+Dr. Smith,Dermatology,Chronic kidney disease
+Dr. Smith,Pediatrics,PTSD
+Dr. Williams,Neurology,Heart disease
+Dr. Williams,Pediatrics,Gingivitis
+Dr. Williams,Dermatology,Peptic ulcer disease
+Dr. Brown,Neurology,Diabetic neuropathy
+Dr. Williams,Dermatology,Scleroderma
+Dr. Smith,Cardiology,Migraine
+Dr. Brown,Cardiology,Osteoarthritis
+Dr. Johnson,Dermatology,Heart disease
+Dr. Williams,Orthopedics,Autism spectrum disorder
+Dr. Smith,Pediatrics,HIV/AIDS
+Dr. Jones,Neurology,Trigeminal neuralgia
+Dr. Smith,Cardiology,Epilepsy
+Dr. Williams,Orthopedics,Multiple sclerosis
+Dr. Smith,Neurology,Ulcerative colitis
+Dr. Jones,Pediatrics,Peripheral neuropathy
+Dr. Smith,Pediatrics,Hepatitis
+Dr. Johnson,Neurology,Sleep apnea
+Dr. Johnson,Dermatology,Pancreatitis
+Dr. Brown,Orthopedics,GERD
+Dr. Smith,Cardiology,Stroke
+Dr. Jones,Neurology,Diabetic retinopathy
+Dr. Williams,Pediatrics,Gallstones
+Dr. Smith,Neurology,Multiple sclerosis
+Dr. Brown,Pediatrics,Autism spectrum disorder
+Dr. Williams,Cardiology,Schizophrenia
+Dr. Williams,Pediatrics,Tuberculosis
+Dr. Jones,Orthopedics,Crohn's disease
+Dr. Smith,Pediatrics,Chronic kidney disease
+Dr. Smith,Dermatology,Shingles
+Dr. Brown,Pediatrics,Obesity
+Dr. Brown,Neurology,Hemorrhoids
+Dr. Johnson,Orthopedics,Tuberculosis
+Dr. Jones,Dermatology,Chronic fatigue syndrome
+Dr. Smith,Orthopedics,Pneumonia
+Dr. Jones,Neurology,Glaucoma
+Dr. Smith,Neurology,OCD
+Dr. Brown,Neurology,Pancreatic cancer
+Dr. Johnson,Cardiology,Pancreatitis
+Dr. Smith,Dermatology,Pancreatic cancer
+Dr. Johnson,Dermatology,Trigeminal neuralgia
+Dr. Williams,Neurology,Myasthenia gravis
+Dr. Smith,Cardiology,Muscular dystrophy
+Dr. Johnson,Dermatology,Fibromyalgia
+Dr. Johnson,Cardiology,Colon cancer
+Dr. Smith,Orthopedics,Peripheral neuropathy
+Dr. Jones,Orthopedics,Huntington's disease
+Dr. Brown,Pediatrics,Lung cancer
+Dr. Brown,Neurology,Cataracts
+Dr. Smith,Pediatrics,Lupus
+Dr. Jones,Orthopedics,Schizophrenia
+Dr. Johnson,Pediatrics,ADHD
+Dr. Smith,Dermatology,Hypothyroidism
+Dr. Jones,Cardiology,OCD
+Dr. Brown,Neurology,Anxiety
+Dr. Jones,Neurology,Obesity
+Dr. Jones,Cardiology,Pancreatic cancer
+Dr. Jones,Pediatrics,Muscular dystrophy
+Dr. Brown,Orthopedics,Trigeminal neuralgia
+Dr. Smith,Orthopedics,Pneumonia
+Dr. Johnson,Orthopedics,Gallstones
+Dr. Jones,Neurology,Hepatitis C
+Dr. Jones,Neurology,Pancreatitis
+Dr. Johnson,Cardiology,Insomnia
+Dr. Brown,Cardiology,Endometriosis
+Dr. Smith,Orthopedics,Migraine
+Dr. Brown,Pediatrics,Chronic fatigue syndrome
+Dr. Brown,Pediatrics,Chronic kidney disease
+Dr. Brown,Dermatology,Pancreatitis
+Dr. Johnson,Neurology,ADHD
+Dr. Jones,Cardiology,HIV/AIDS
+Dr. Williams,Dermatology,Migraine
+Dr. Williams,Neurology,Chronic fatigue syndrome
+Dr. Brown,Orthopedics,Obesity
+Dr. Brown,Cardiology,Meniere's disease
+Dr. Smith,Neurology,Hyperthyroidism
+Dr. Jones,Pediatrics,Huntington's disease
+Dr. Brown,Cardiology,Arthritis
+Dr. Jones,Pediatrics,Hypothyroidism
+Dr. Brown,Neurology,Hypertension
+Dr. Johnson,Pediatrics,Scleroderma
+Dr. Smith,Cardiology,Macular degeneration
+Dr. Johnson,Neurology,Restless leg syndrome
+Dr. Smith,Neurology,Leukemia
+Dr. Williams,Pediatrics,Migraine
